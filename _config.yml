@@ -1,27 +1,27 @@
 # Site settings
-title: Website Title
-description: Website short description
+title:Xuyang小站
+description:XuYang的博客
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
-url: "https://yk-liu.github.io"  
+url: "https://xuyang233.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
-email: 
+username: Xuyang
+github_username: XuYang233
+user_description: 编程初学者
+user_title: Admin
+email: 2542503508@qq.com
 
 # Blog Author settings
-author:
-  name:            
+author:Xuyang
+  name: Xuyang           
   picture:        
-  email:           
+  email:2542503508           
   description:     
   twitter:
   facebook:
-  github:          
+  github:https://github.com/XuYang233          
   linkedin:
   clustrmap:      
 
