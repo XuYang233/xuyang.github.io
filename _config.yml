@@ -1,27 +1,27 @@
 # Site settings
-title: Website Title
-description: Website short description
+title: Pointing To Tthe Moon
+description: Blog Of XuYang
 baseurl: "" 
 #change the baseurl to "" if you are using it as your user GitHub Pages
 url: "https://xuyang233.github.io"  
 
 
 # GitHub User settings
-username: Username
-github_username: github_username
-user_description: user_description
-user_title: user_title
+username: XuYang
+github_username: XuYang233
+user_description: 编程初学者
+user_title: Grammar Beginner
 email: 
 
 # Blog Author settings
 author:
-  name:            
+  name: XuYang            
   picture:        
-  email:           
-  description:     
+  email: 25425035058@qq.com          
+  description: I'm just a grammar beginner    
   twitter:
   facebook:
-  github:          
+  github: https://github.com/XuYang233/         
   linkedin:
   clustrmap:      
 
