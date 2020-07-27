@@ -1,67 +1,73 @@
 ---
-title: About
+title: 关于
 layout: info
-Edit: 2018-11-14
+Edit: 2020-7-5
 toc: false
 commentable: false
 protected: true
 mathjax: true
 ---
 
-# Me
+# 我
 
 
 
-# This Site
+# 这个网站
 
 
-# Posts
+# 帖子
 
-The posts are at different status.
+帖子处于不同的状态
 
-| Status    | Meaning                                                      |
-| --------- | ------------------------------------------------------------ |
-| Completed | This post is considered completed, but I might edit it when I came up with something new. |
-| Writing   | This post is being actively edited.                          |
-| Paused    | This post is considered of low priority. I will come back to this post later. |
-| Archived  | This post is outdated and I probably won't update it anymore. |
+| Status    | Meaning                                                           |
+| --------- | ----------------------------------------------------------------- |
+| Completed | 这篇文章被认为是已完成的， 但当我想出了一些新的东西时，我可能会编辑它。 |
+| Writing   | 正在努力写作中。  |
+| Paused    | 这个帖子目前想不出怎么继续写下去，所以暂时停止创作 |
+| Archived  | 这篇帖子可能已经过时，我将不再更新它 |
 
-# Sources
+# 资源
 
-This website uses these sources:
+本网站使用这些资源:
 
-| Module                                                       | Mainly used in                                  | License/ TOS                                                 |
+| 模块                                                       | 主要用于                                 | 许可证/ TOS                                                 |
 | ------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ |
-| [Particle.js](https://github.com/VincentGarreau/particles.js) | Homepage                                        | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Visitor map](https://clustrmaps.com/)                       | Homepage, footer                                | [TOS](https://clustrmaps.com/legal)                          |
-| [Homepage and color scheme](https://github.com/nrandecker/particle) | Layout @ homepage, color scheme @ all pages     | [MIT](http://opensource.org/licenses/MIT)                    |
-| [List of recent post](https://github.com/mdo/jekyll-snippets/blob/master/posts-list.html) | Homepage, Post index                            | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Search](https://github.com/christian-fei/Simple-Jekyll-Search) | Post index, Tags index                          | [MIT](http://opensource.org/licenses/MIT)                    |
-| [Side bar](https://github.com/poole/lanyon)                  | Post, all pages with these elements             | [MIT](https://github.com/poole/lanyon/blob/master/LICENSE.md) |
-| [Table of content](https://github.com/allejo/jekyll-toc)     | Post                                            | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) or [MIT](http://opensource.org/licenses/MIT) |
-| [Markdown vue theme and color scheme](https://github.com/blinkfox/typora-vue-theme) | Markdown theme @ Post, color scheme @ all pages | [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)     |
-| [Tags, Tag cloud, Tag page](https://hyunyoung2.github.io/2016/12/17/Tag_Cloud/) | Post, Post index, Tags index                    | [MIT](http://opensource.org/licenses/MIT), repo [here](https://github.com/hyunyoung2/hyunyoung2.github.io). Tag page inspired by [haixing-hu](https://haixing-hu.github.io/tags.html) |
-| [Font size adjustment](https://codepen.io/robgolbeck/pen/yePRwa) | Post                                            | [MIT](http://opensource.org/licenses/MIT)                    |
-| [comment](https://commentit.io)                              | Post                                            | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
-| [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
-| [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
+| [粒子.js](https://github.com/VincentGarreau/particles.js) | 主页        | [MIT](http://opensource.org/licenses/MIT)                    |
+| [游客地图](https://clustrmaps.com/)                       | 	主页， 页脚    | [TOS](https://clustrmaps.com/legal)                          |
+| [主页与配色方案](https://github.com/nrandecker/particle) | 布局 @ 主页, 配色方案 @ 所有页面     | [MIT](http://opensource.org/licenses/MIT)                    |
+| [帖子列表](https://github.com/mdo/jekyll-snippets/blob/master/posts-list.html) | 主页，帖子索引        | [MIT](http://opensource.org/licenses/MIT)                    |
+| [搜索](https://github.com/christian-fei/Simple-Jekyll-Search) | 帖子索引，标签索引   | [MIT](http://opensource.org/licenses/MIT)                    |
+| [侧边栏](https://github.com/poole/lanyon)                  | 帖子，所有页面与这些元素   | [MIT](https://github.com/poole/lanyon/blob/master/LICENSE.md) |
+| [内容表](https://github.com/allejo/jekyll-toc)     | 帖子 | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) or [MIT](http://opensource.org/licenses/MIT) |
+| 标记 vue 主题和配色方案](https://github.com/blinkfox/typora-vue-theme) | 标记主题 @ 帖子， 配色方案 @ 所有页面 | [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)     |
+| [标签，标签云，标签页unyoung2/hyunyoung2.github.io). Tag page inspired by [haixing-hu](https://haixing-hu.github.io/tags.html) |
+| [字体大小调整](https://codepen.io/robgolbeck/pen/yePRwa) | 帖子        | [MIT](http://opensource.org/licenses/MIT)                    |
+| [评论](https://commentit.io)                              | 帖子      | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
+| [404 小恐龙游戏](https://github.com/wayou/t-rex-runner)      | 404 页面      | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
+| [加密](https://github.com/robinmoisson/staticrypt)     | 秘密页面       | [MIT](http://opensource.org/licenses/MIT)                    |
 
-Additional licensing information can be found YOUR WEBSITE LINK.
+您可以在网站链接中找到其他许可信息。
 
-# The Name
+# 网站名
 
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
-
+将这个网站命名为 "指向月球"， 就像在佛教中的故事：
 > **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
 >
 > **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
 >
 > **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
 
-Which has been beautifully put by Bruce Lee:
+李小龙有句话说的很好：
 
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
+>“不要思考!直觉!
 
-# Contact
+它就像一根手指指向月亮。
 
-The best way to reach me is via email: $namer$ @ $web.com$
+不要把注意力集中在手指上，
+
+否则你会错过天空中所有的月亮光华。”
+
+
+# 联系
+
+联系我最好通过QQ:2542503508
