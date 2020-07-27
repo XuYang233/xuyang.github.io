@@ -1,103 +1,100 @@
 ---
 layout: info
-title: Markdown Syntax
+title: 标记语法
 edit: 2019-03-26
 mathjax: true
 mermaid: true
 highlight: true
 ---
 
-# Basics Markdown Syntax
+# 基本标记语法
 
-GitHub uses [kramdown](https://kramdown.gettalong.org/syntax.html) as GitHub Flavored Markdown (GFM). Some of the syntax are listed below.
+GitHub使用 [kramdown](https://kramdown.gettalong.org/syntax.html) 作为GitHub风格的标记（GitHub Flavored Markdown (GFM)）。下面列出了一些语法。
 
-## Typesetting
+## 排版
 
 ```md
-*This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
+*这是斜体.* **这是粗体**. * 如果星号被空格包围，则不会解析星号。 *
 
-_This is also italic._ __This is also Bold__. _ If underscore is surrounded by spaces, it is not parsed. _
+_这也是斜体_ __这也是粗体__. _ 如果下划线被空格包围，则不会解析下划线 _
 
-[This is an external link](https://bit.ly). `"https://"` is important. [This is an internal link](#typesetting). Internal links are all lowercase with space replaced by hyphens "-". 
+[这是一个外部链接](https://bit.ly). `"https://"` 这很重要。 [这是一个内部链接](#typesetting). 内部链接都是小写，空格替换为连字符"-"。
 
-You can mix them like [*this*](https://bit.ly), [`this`](https://bit.ly), **[this](https://bit.ly)**, but not like `[this](https://bit.ly)`.
+你可以像这样混合他们 [*this*](https://bit.ly), [`this`](https://bit.ly), **[this](https://bit.ly)**, 但不是 `[this](https://bit.ly)`.
 
-==Highlighting is not supported by GFM, but I implemented on this theme.==
+==GFM 不支持高亮显示，但我在此主题上实现了高亮显示。==
 
 ```
 
-*This is italic.* **This is Bold**. * If asterisk is surrounded by spaces, it is not parsed. *
+*这是斜体.* **这是粗体**. * 如果星号被空格包围，则不会解析星号。 *
 
-_This is also italic._ __This is also Bold__. _ If underscore is surrounded by spaces, it is not parsed. _
+_这也是斜体_ __这也是粗体__. _ 如果下划线被空格包围，则不会解析下划线 _
 
-[This is an external link](https://bit.ly). `"https://"` is important. [This is an internal link](#typesetting). Internal links are all lowercase with space replaced by hyphens "-". 
+[这是一个外部链接](https://bit.ly). `"https://"` 这很重要。 [这是一个内部链接](#typesetting). 内部链接都是小写，空格替换为连字符"-"。
 
-You can mix them like [*this*](https://bit.ly), [`this`](https://bit.ly), **[this](https://bit.ly)**, but not like `[this](https://bit.ly)`.
+你可以像这样混合他们 [*this*](https://bit.ly), [`this`](https://bit.ly), **[this](https://bit.ly)**, 但不是 `[this](https://bit.ly)`.
 
-==Highlighting is not supported by GFM, but I implemented on this theme.==
+==GFM 不支持高亮显示，但我在此主题上实现了高亮显示。==
 
-## Lists
+## 列表
 
 ```markdown
-- This is unordered list
-  - sub item
-    - subsub item
-      - subsubsub item
-        - it goes on and on ...
-- List can have multiple lines
+- 这是无序列表
+  - 子项
+    - 子子项
+      - 子子子项
+        - 它可以一直这样下去
+- 列表可以有多行
 
-  like this.
-- > Or block quotes
+  就像这个，
+- > 或引号
 - ```markdown
-  or code fences
+  或使用代码
 ​```
 
 ---
 
-1. This is ordered list
-   1. sub item
-2. This is as well
-3. It can keep going
+1. 这是有序列表
+   1. 子项
+2. 这也是
+3. 它可以一直这样下去
 
 ---
 
-1. You can avoid manuel numbering like this
-   1. sub item
-1. It keeps going
-1. yedda yedda
+1. 您可以避免像这样编号
+   1. 子项
+1. 它将一直这样下去
+1. 歪比巴布
 ```
 
-- This is unordered list
-  - sub item
-    - subsub item
-      - subsubsub item
-        - it goes on and on ...
-- List can have multiple lines
+- 这是无序列表
+  - 子项
+    - 子子项
+      - 子子子项
+        - 它可以一直这样下去
+- 列表可以有多行
 
-  like this.
-- > Or block quotes
+  就像这个，
+- > 或引号
 - ```markdown
-  or code fences
-  ```
+  或使用代码
+​```
 
 ---
 
-1. This is ordered list
-   1. sub item
-2. This is as well
-3. It can keep going
+1. 这是有序列表
+   1. 子项
+2. 这也是
+3. 它可以一直这样下去
 
 ---
 
-1. You can avoid manuel numbering like this
+1. 您可以避免像这样编号
+   1. 子项
+1. 它将一直这样下去
+1. 歪比巴布
 
-   1. sub item
-
-1. It keeps going
-
-1. yedda yedda
-
-## Images
+## 图片
 
 ```markdown
 Markdown uses `![caption](link)` to reference pictures, caption is optional. You cannot control the size. 
