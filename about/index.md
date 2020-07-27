@@ -19,7 +19,7 @@ mathjax: true
 
 帖子处于不同的状态
 
-| Status    | Meaning                                                           |
+| 状态    | 意义                                                           |
 | --------- | ----------------------------------------------------------------- |
 | Completed | 这篇文章被认为是已完成的， 但当我想出了一些新的东西时，我可能会编辑它。 |
 | Writing   | 正在努力写作中。  |
@@ -39,11 +39,11 @@ mathjax: true
 | [搜索](https://github.com/christian-fei/Simple-Jekyll-Search) | 帖子索引，标签索引   | [MIT](http://opensource.org/licenses/MIT)                    |
 | [侧边栏](https://github.com/poole/lanyon)                  | 帖子，所有页面与这些元素   | [MIT](https://github.com/poole/lanyon/blob/master/LICENSE.md) |
 | [内容表](https://github.com/allejo/jekyll-toc)     | 帖子 | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) or [MIT](http://opensource.org/licenses/MIT) |
-| 标记 vue 主题和配色方案](https://github.com/blinkfox/typora-vue-theme) | 标记主题 @ 帖子， 配色方案 @ 所有页面 | [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)     |
-| [标签，标签云，标签页unyoung2/hyunyoung2.github.io). Tag page inspired by [haixing-hu](https://haixing-hu.github.io/tags.html) |
+| [标记 vue 主题和配色方案](https://github.com/blinkfox/typora-vue-theme) | 标记主题 @ 帖子， 配色方案 @ 所有页面 | [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)     |
+| [标签，标签云，标签页](unyoung2/hyunyoung2.github.io). 标签页的灵感来自 [haixing-hu](https://haixing-hu.github.io/tags.html) |
 | [字体大小调整](https://codepen.io/robgolbeck/pen/yePRwa) | 帖子        | [MIT](http://opensource.org/licenses/MIT)                    |
 | [评论](https://commentit.io)                              | 帖子      | [APGL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)       |
-| [404 小恐龙游戏](https://github.com/wayou/t-rex-runner)      | 404 页面      | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
+| [404 小恐龙游戏](https://github.com/wayou/t-rex-runner)      | 404 页面      | 来自 [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
 | [加密](https://github.com/robinmoisson/staticrypt)     | 秘密页面       | [MIT](http://opensource.org/licenses/MIT)                    |
 
 您可以在网站链接中找到其他许可信息。
