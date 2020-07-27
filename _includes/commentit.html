@@ -1,4 +1,4 @@
-<h2> Comments </h2>
+<h2> 评论 </h2>
    <hr>
 {% if page.commentable == true %}
 	{% if page.comments %}
@@ -18,18 +18,18 @@
 		</div>
 	{% else %}
 		{% if page.protected == true %}
-			<h6 style="color:#34495e;margin-bottom: auto;" >&#128517; Comments on this page are now protected.</h6>
+			<h6 style="color:#34495e;margin-bottom: auto;" >&#128517; 此页面上的评论已受到保护。</h6>
 		{% else %}
-			<h6 style="color:#34495e;margin-bottom: auto;"> Be the first one to comment on this page!</h6>
+			<h6 style="color:#34495e;margin-bottom: auto;"> 成为第一个留下评论的人！</h6>
 		{% endif %}
 	{% endfor %}
 {% else %}
-		<h6 style="color:#34495e;margin-bottom: auto;">&#128517; Commenting is disabled on this post.</h6>
+		<h6 style="color:#34495e;margin-bottom: auto;">&#128517;评论在此帖子上不可用</h6>
 {% endif %}
 
 {% if page.protected == false %}
-    <noscript>Please enable JavaScript to view the comment form powered by <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
-		<div style="font-size: smaller;">You can use <a href="{{site.url}}{{site.baseurl}}/info/markdown-syntax">extended GitHub flavored markdown</a> in your comment. <a href="{{site.url}}{{site.baseurl}}/info/commenting-guidelines">Commenting FAQs & Guidelines </a></div> 
+    <noscript>请启用JavaScript以查看由提供支持的评论表单 <a href="https://commentit.io/">Comm(ent|it)</a></noscript>
+		<div style="font-size: smaller;">你可以使用 <a href="{{site.url}}{{site.baseurl}}/info/markdown-syntax">GitHub风格的标记语法</a> 在你的评论中 <a href="{{site.url}}{{site.baseurl}}/info/commenting-guidelines">评论常见问题解答和准则 </a></div> 
     <div id="commentit"></div>
 		
 
