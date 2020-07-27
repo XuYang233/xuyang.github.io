@@ -1,38 +1,36 @@
 ---
 layout: info
-title: Disclaimer
+title: disclaimer
 commentable: false
 edit: 2018-11-01
 ---
 
-This is a personal blog. Any views or opinions represented in this blog are personal and belong solely to the blog owner and do not represent those of people, institutions or organizations that the owner may or may not be associated with in professional or personal capacity unless explicitly stated.
+这是一个个人博客。除非明确说明，否则此博客中表示的任何观点或观点均为个人观点，仅属于博客所有者，并不代表所有者可能以专业或个人身份与之或不具有关联的个人，机构或组织。
 
-Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual.
+任何观点或意见均无意破坏任何宗教，种族，俱乐部，组织，公司或个人。
 
-All content provided on this blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site.
+本博客上提供的所有内容仅供参考。该博客的所有者不对本网站上的任何信息的准确性或完整性或通过遵循本网站上的任何链接的发现进行任何陈述。
 
-The owner will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information.
+所有者对本信息中的任何错误或遗漏，也不对本信息的可用性承担任何责任。所有者对由于显示或使用此信息而造成的任何损失概不负责。
 
-# Downloadable Files and Images
+# 下载文件与图片
 
-Any downloadable file, including but not limited to pdfs, docs, jpegs, pngs, is provided at the user’s own risk. The owner will not be liable for any losses, injuries, or damages resulting from a corrupted or damaged file.
+任何可下载的文件（包括但不限于pdf，docs，jpeg，png）均由用户自行承担风险。所有者对文件损坏或丢失所造成的任何损失概不负责。
+# 评论
 
-# Comments
+欢迎发表评论。但是，由于以下原因，博客所有者保留编辑或删除提交给此博客的任何评论的权利，恕不另行通知：
 
-Comments are welcome. However, the blog owner reserves the right to edit or delete any comments submitted to this blog without notice due to :
+- 评论被视为垃圾信息或可疑垃圾信息。
 
-- Comments deemed to be spam or questionable spam.
+- 评论包括亵渎。
 
-- Comments including profanity.
+- 包含可能令人反感的语言或意义的评论。
 
-- Comments containing language or concepts that could be deemed offensive.
+- 评论包含反动言论，引战或对个人或团体的直接攻击。
 
-- Comments containing hate speech, credible threats, or direct attacks on an individual or group.
+博客所有者对评论内容不承担任何责任。
 
-The blog owner is not responsible for the content in comments. 
+网站用户自行承担风险，并对他们的评论，用户名和所提供的任何信息承担个人责任。对于此博客的任何评论中的任何数据，文本，图像，消息或任何其他材料（“内容”），博客所有者概不负责。
+# 免责声明变更
 
-Users of the website participate at their own risk and take personal responsibility for their comments, username, and any information provided. The blog owner accepts no responsibility or liability for any data, text, images, messages, or any other materials whatsoever (“Content”) in any comments on this Blog.
-
-# Change of Disclaimer
-
-This blog disclaimer is subject to change at any time.
+此博客免责声明随时可能更改。
